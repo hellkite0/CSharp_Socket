@@ -43,7 +43,7 @@ namespace CSharp_Socket
                 cServer_.Blocking = true;
                 cServer_.Listen(5);
 
-                Console.WriteLine("Server Initialize Complete4.");
+                Console.WriteLine("Server Initialize Complete45.");
             }
             catch (System.Exception ex)
             {
